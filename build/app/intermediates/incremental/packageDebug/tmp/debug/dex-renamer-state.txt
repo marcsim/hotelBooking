@@ -1,0 +1,4 @@
+#Thu Mar 24 13:25:45 CET 2022
+base.0=/Users/marc-antoinesimon/Documents/flutterApps/tutorial/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
